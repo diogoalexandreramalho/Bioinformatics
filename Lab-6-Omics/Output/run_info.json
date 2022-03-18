@@ -1,0 +1,13 @@
+{
+	"n_targets": 159054,
+	"n_bootstraps": 0,
+	"n_processed": 62114547,
+	"n_pseudoaligned": 48844984,
+	"n_unique": 12779280,
+	"p_pseudoaligned": 78.6,
+	"p_unique": 20.6,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Dec 10 15:09:52 2019",
+	"call": "kallisto quant -i transcripts.idx -o output TCGA-C8-A138-01_1.fastq TCGA-C8-A138-01_2.fastq"
+}
